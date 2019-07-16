@@ -1,0 +1,35 @@
+﻿Nice place for quiet dinner	1
+An OK pizzeria of local importance	2
+Not a bad experience.	0
+"Pizza like" tragedy	1
+never ever again!	0
+Too much smoke	2
+Not great	0
+Not good	1
+Basement, noisy pizzeria	2
+I just know this restaurant during lunch time so.. well, staff is slow, people are smoking and the food is just what...	2
+Excellent!	1
+Fabulous Asian fusion multi-sensory experience	1
+The food was fantastic and the evening was wonderful until	1
+Worth at least 1 or 2 Michelin Stars	1
+Best meal in Prague	1
+Top restaurant in Prague	2
+An outstanding experience	2
+Very bad experience	0
+Traditional fish 'n chips	1
+Not a Chippy as you know it!	1
+Try somewhere else. Definitely don’t bother if gluten free.	1
+Very tasty fish and chips in Prague. Hope you're hungry	1
+Under cooked!	1
+Wonderful Dinner	1
+Too pricy	3
+Cheap for such a meal	3
+not too expensive	3
+Lovely meal	1
+Lovely spot	2
+Meaty delight	1
+Amazing food	1
+Fantastic service	0
+Engagement meal	1
+
+
